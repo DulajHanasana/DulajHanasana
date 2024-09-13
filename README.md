@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development(PHP)**
 
-- 🌱 I’m currently learning **PHP/JavaScrit**
+- 🌱 I’m currently learning **PHP/JavaScript**
 
 - 👯 I’m looking to collaborate on **Any Web Development Project**
 

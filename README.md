@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a> href="https://twitter.com/dulaj_hansana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dulaj_hansana" height="30" width="40" /></a>
+<a href="https://twitter.com/dulaj_hansana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dulaj_hansana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Dulaj Hansana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulaj hansana" height="30" width="40" /></a>
 <a href="https://kaggle.com/Dulaj Hansana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dulaj hansana" height="30" width="40" /></a>
 <a href="https://fb.com/Dulaj Hansana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulaj hansana" height="30" width="40" /></a>

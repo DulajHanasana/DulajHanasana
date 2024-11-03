@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think I Funny and Friendly**
 
-- 🔭 I’m Available Time **Any Time**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

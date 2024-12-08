@@ -8,6 +8,8 @@
 
 - 👯 I’m looking to collaborate on **Any Web Development Project**
 
+- 🌱 I’m currently learning **PHP/JavaScript**
+
 - 🤝 I’m looking for help with **Other Developers**
 
 - 💬 Ask me about **Anything About Web Development**
